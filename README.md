@@ -27,15 +27,16 @@ for epoch in epochs:
 
   for step ,data in dataloadar:
     #you can use
-    dataloadar.dec("epoch{}".format(epoch)
+    dataloadar.dec("epoch{}".format(epoch))
     your train code
     '''''''
 ```
-![image](https://github.com/clearlyzerolxd/easytqdm/assets/128237886/c68aef96-b3f3-4768-b787-7c6dff231cb5)
+![image](https://github.com/clearlyzerolxd/easytqdm/assets/128237886/7e0ba01d-41c4-4b06-9eec-b268cde3925d)
+
 
 
  If you have any good ideas or suggestions, or encounter any problems, please contact me.
- <a href="mailto:你的邮箱地址" style="color: #ff0000;">clearlyzero@stu.cqut.edu.cn</a>
+ <a href="mailto:>clearlyzero@stu.cqut.edu.cn" style="color: #ff0000;">clearlyzero@stu.cqut.edu.cn</a>
  Thank you very much for your advice.
 
 
