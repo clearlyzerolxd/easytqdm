@@ -21,7 +21,7 @@ I have completed
 
 # Like tqdm😋
 ```
-from easytqdm import easytqdm
+from easytqdm import easytqdm==1.5
 for epoch in epochs:
   dataloadar = easytqdm(dataloadar)
 
