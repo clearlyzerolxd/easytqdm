@@ -8,6 +8,16 @@ or https://github.com/tqdm/tqdm/issues/487#issuecomment-948860972
 ```bash
 pip install easytqdm
 ```
+I have completed 
+- [x] the display of the progress bar
+- [x] real-time updating of text
+- [x]  time calculation.
+- [ ]  Byte stream calculation
+- [ ]  change bar's color
+- [ ]  Length, width, and animation of the progress bar
+
+
+
 
 like tqdm,
 ```
