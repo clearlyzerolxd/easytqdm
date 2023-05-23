@@ -15,6 +15,8 @@ for epoch in epochs:
   dataloadar = easytqdm(dataloadar)
 
   for step ,data in dataloadar:
+    #you can use
+    dataloadar.dec("epoch{}".epoch)
     your train code
     '''''''
 ```
