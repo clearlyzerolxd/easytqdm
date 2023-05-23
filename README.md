@@ -16,7 +16,7 @@ for epoch in epochs:
 
   for step ,data in dataloadar:
     #you can use
-    dataloadar.dec("epoch{}".epoch)
+    dataloadar.dec("epoch{}".format(epoch)
     your train code
     '''''''
 ```
