@@ -25,4 +25,7 @@ for epoch in epochs:
 
 
  If you have any good ideas or suggestions, or encounter any problems, please contact me.
- <a href="mailto:clearlyzero@stu.cqut.edu.cn">联系我</a>
+ <a href="mailto:你的邮箱地址" style="color: #ff0000;">clearlyzero@stu.cqut.edu.cn</a>
+ Thank you very much for your advice.
+
+
