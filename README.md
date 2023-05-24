@@ -6,7 +6,7 @@ or https://github.com/tqdm/tqdm/issues/487#issuecomment-948860972
 
 ## How to use?
 ```bash
-pip install easytqdm
+pip install easytqdm==1.5
 ```
 I have completed 
 - [x] the display of the progress bar
@@ -21,7 +21,7 @@ I have completed
 
 # Like tqdm😋
 ```
-from easytqdm import easytqdm==1.5
+from easytqdm import easytqdm
 for epoch in epochs:
   dataloadar = easytqdm(dataloadar)
 
